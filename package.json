@@ -6,6 +6,9 @@
     "node": "^10.13 || 12 || 14 || 15",
     "npm": ">=6"
   },
+  "engines": {
+  "node": "^10.13 || 12 || 14 || 15"
+},
   "dependencies": {
     "@craco/craco": "6.2.0",
     "@testing-library/jest-dom": "5.11.9",
